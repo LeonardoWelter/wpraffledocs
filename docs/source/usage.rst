@@ -26,7 +26,7 @@ Selecione "Adicionar Novo" no topo da página, e então selecione "Enviar Plugin
 
 Clique em "Procurar", selecione o arquivo ``wpraffle.zip`` e clique em "Instalar agora":
 
-.. figure:: https://raw.githubusercontent.com/LeonardoWelter/wpraffledocs/main/docs/images/wpraffle_docs_plugin_send.png
+.. figure:: https://raw.githubusercontent.com/LeonardoWelter/wpraffledocs/main/docs/images/wpraffle_docs_plugins_send.png
    :width: 60%
    :align: center
    :alt: Enviando o plugin
@@ -112,7 +112,7 @@ Para disponibilizar o componente da rifa, basta inserir o shortcode em alguma p�
 
 Selecione uma página, insira um bloco de shortcode:
 
-.. figure:: https://raw.githubusercontent.com/LeonardoWelter/wpraffledocs/main/docs/images/wpraffle_docs_add_block.png
+.. figure:: https://raw.githubusercontent.com/LeonardoWelter/wpraffledocs/main/docs/images/wpraffle_docs_page_add_block.png
    :width: 60%
    :align: center
    :alt: Inserindo bloco de Shortcode
@@ -125,7 +125,7 @@ Coloque o shortcode ``[lwraffle id=1]`` copiado anteriormente e salve a página:
 
    O shortcode pode ser copiado no menu do plugin em Sorteios.
 
-.. figure:: https://raw.githubusercontent.com/LeonardoWelter/wpraffledocs/main/docs/images/wpraffle_docs_add_shortcode.png
+.. figure:: https://raw.githubusercontent.com/LeonardoWelter/wpraffledocs/main/docs/images/wpraffle_docs_page_add_shortcode.png
    :width: 60%
    :align: center
    :alt: Inserindo o shortcode
@@ -156,7 +156,7 @@ Para completar a reserva de um número da rifa, é necessário uma página de ch
 
 No menu do Wordpress, selecione "Páginas" e em seguida "Adicionar Nova"
 
-.. figure:: https://raw.githubusercontent.com/LeonardoWelter/wpraffledocs/main/docs/images/wpraffle_docs_pages2.png
+.. figure:: https://raw.githubusercontent.com/LeonardoWelter/wpraffledocs/main/docs/images/wpraffle_docs_admin_pages2.png
    :width: 60%
    :align: center
    :alt: Páginas do Wordpress
@@ -242,7 +242,7 @@ As formas de pagamento pode ser ativadas e desativas individualmente:
 
 .. note::
 
-   Para gerar o Token do PagSeguro siga o <a class="reference external" href="https://faq.pagseguro.uol.com.br/duvida/como-gerar-token-para-integracao-com-o-site/841#rmcl">tutorial como criar token</a>.
+   Para gerar o Token do PagSeguro siga o tutorial de como criar o token: https://faq.pagseguro.uol.com.br/duvida/como-gerar-token-para-integracao-com-o-site/841#rmcl".
 
 .. figure:: https://raw.githubusercontent.com/LeonardoWelter/wpraffledocs/main/docs/images/wpraffle_docs_config_pagseguro.png
    :width: 60%
