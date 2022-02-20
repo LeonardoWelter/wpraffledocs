@@ -1,5 +1,7 @@
-Funções do plugin
-=====
+*******************
+Funcionalidades do plugin
+*******************
+
 
 .. _features:
 
