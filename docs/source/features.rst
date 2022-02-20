@@ -26,7 +26,7 @@ A listagem dos sorteios pode ser filtrada e reordenada conforme a necessidade do
 
 Há, ainda um atalho para criação de novos sorteios:
 
-.. figure:: https://raw.githubusercontent.com/LeonardoWelter/wpraffledocs/main/docs/images/wpraffle_docs_new_link.png
+.. figure:: https://raw.githubusercontent.com/LeonardoWelter/wpraffledocs/main/docs/images/wpraffle_docs_raffle_features.png
    :width: 60%
    :align: center
    :alt: Página de sorteios
