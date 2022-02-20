@@ -250,7 +250,7 @@ Configurações usadas para definir o Email que será usado para envio dos email
 
 .. note::
 
-   Somente é possível utilizar emails do Gmail.
+   Somente é possível utilizar emails do Gmail, é necessário ativar "Acesso a Apps menos Seguros" no seu gmail, o que pode ser feito seguindo este tutorial: https://support.google.com/accounts/answer/6010255.
 
 .. figure:: https://raw.githubusercontent.com/LeonardoWelter/wpraffledocs/main/docs/images/wpraffle_docs_config_mailer_features.png
    :width: 60%
